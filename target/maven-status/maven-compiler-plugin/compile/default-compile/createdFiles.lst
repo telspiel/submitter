@@ -1,0 +1,7 @@
+com\noesis\submitter\config\DbMessageSenderConfig.class
+com\noesis\submitter\MessageSubmitter.class
+com\noesis\submitter\MessageSubmitterUtil.class
+com\noesis\submitter\App.class
+com\noesis\submitter\SplittedMessage.class
+com\noesis\producer\MessageSender.class
+com\noesis\submitter\config\SubmitterConfig.class
